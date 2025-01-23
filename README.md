@@ -1,2 +1,1 @@
-# Projects-Start
-The beginning with Altschool 
+Beginning with AltSchool 
